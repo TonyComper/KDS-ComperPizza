@@ -16,7 +16,7 @@ export default function KitchenDashboard() {
   const messageAudio = useRef(null);
 
   // ✅ Location filter (Delicacies Gourmet)
-  const LOCATION_ID = 'DELGMT';
+  const LOCATION_ID = 'COMPIZ';
 
   const isChrome = () => {
     const userAgent = navigator.userAgent;
