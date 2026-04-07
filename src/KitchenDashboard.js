@@ -524,7 +524,7 @@ export default function KitchenDashboard() {
 
   return (
     <div style={{ padding: '1rem', fontFamily: 'Arial' }}>
-      <h1>Orders and Messages - Delicacies Gourmet</h1>
+      <h1>Orders and Messages - Comper Pizza 41st New York</h1>
       <p>
         <strong>Date:</strong>{' '}
         {today.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
